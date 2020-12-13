@@ -1,0 +1,41 @@
+body{
+    background-image: url('Backgorund.jpg');;
+    background-attachment: fixed;
+}
+#d1{
+    padding-top: 100px;
+}
+#d11{
+    border: 2px solid rgb(62, 119, 243);
+    border-radius: 10px;
+    background-color: rgb(62, 119, 243);
+    text-align: center;
+    width: 300px;
+    height: 200px;
+}
+#d12{
+    
+    border-radius: 10px;
+    text-align: center;
+    padding-left: 90px;
+}
+#d13{
+    padding-left: 1000px;
+}
+a{
+    text-decoration: none;
+    background-color: lightskyblue;
+    border: 2px solid lightskyblue;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    padding-left: 50px;
+    padding-top: 10px;
+    display: flex;
+    text-align: center;
+}
+a:hover{
+    background-color: white;
+    border: lightskyblue;
+    width: 100px;
+}
